@@ -1,0 +1,13 @@
+node_modules
+
+model/localVar.js
+.tmp
+
+npm-debug.log
+
+.DS_STORE
+.netbeans
+nbproject
+.idea/
+.node_history
+./public/vendor/angular-scenario
